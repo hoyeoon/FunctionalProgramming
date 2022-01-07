@@ -1,8 +1,5 @@
 package com.fastcampus.functionalprogramming.chapter3;
 
-import java.util.function.BiFunction;
-import java.util.function.Function;
-
 import com.fastcampus.functionalprogramming.chapter3.util.TriFunction;
 
 public class Chapter3Section4 {

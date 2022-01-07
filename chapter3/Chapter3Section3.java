@@ -1,7 +1,6 @@
 package com.fastcampus.functionalprogramming.chapter3;
 
 import java.util.function.BiFunction;
-import java.util.function.Function;
 
 public class Chapter3Section3 {
 
