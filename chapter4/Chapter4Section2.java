@@ -6,6 +6,9 @@ import java.util.function.Consumer;
 
 public class Chapter4Section2 {
 	public static void main(String[] args) {
+		/**
+		 * Consumer는 Supplier와 반대로 input parameter는 있지만, output을 return 하지 않을 때 사용하는 functional interface
+		 */
 //		Consumer<String> myStringConsumer = str -> 	System.out.println(str);
 //		myStringConsumer.accept("hello");
 
