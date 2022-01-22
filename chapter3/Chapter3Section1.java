@@ -1,8 +1,7 @@
-package com.fastcampus.functionalprogramming.chapter3;
+package FunctionalProgramming.chapter3;
 
 import java.util.function.Function;
-
-import com.fastcampus.functionalprogramming.chapter3.util.Adder;
+import chapter3.util.Adder;
 
 /**
  * Integer 타입을 매개변수로 받아 Integer 타입으로 반환하는 함수를 Function 인터페이스를 object 형태로 구현하여 사용

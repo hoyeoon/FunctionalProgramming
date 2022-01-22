@@ -1,4 +1,4 @@
-package com.fastcampus.functionalprogramming.chapter3.util;
+package chapter3.util;
 
 import java.util.function.Function;
 

@@ -1,6 +1,6 @@
-package com.fastcampus.functionalprogramming.chapter3;
+package chapter3;
 
-import com.fastcampus.functionalprogramming.chapter3.util.TriFunction;
+import chapter3.util.TriFunction;
 
 public class Chapter3Section4 {
 
