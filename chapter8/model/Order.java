@@ -4,8 +4,7 @@ import java.util.*;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-public class
-Order {
+public class Order {
     private long id;
     private LocalDateTime createdAt;
     private long createdByUserId;

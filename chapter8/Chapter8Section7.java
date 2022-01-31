@@ -25,6 +25,7 @@ import static chapter8.model.Order.OrderStatus.*;
  * - 그 경우 List 대신 collector를 적용시킨 값으로 map의 value가 만들어짐
  * - 이 때 자주 쓰이는 것이 mapping / reducing 등의 collector
  */
+
 public class Chapter8Section7 {
     public static void main(String[] args) {
         // 예제 - 기본 사용법
